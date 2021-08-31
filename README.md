@@ -1,7 +1,5 @@
-### Hi Y'all 👋
-
 ## Antonio Amram (he/him)
-I'm Antonio, a Senior at Northwestern University majoring in Statistics with minors in Data Science, Political Science, and Marketing.
+Hi y'all, my name is Antonio! 👋 I'm a Senior at Northwestern University majoring in Statistics with minors in Data Science, Political Science, and Marketing.
 
 ### What I'm working on right now
 I'm currently working on a shiny R dashboard for [picking and evaluating stock portfolios](https://github.com/ajamram/stock_app), which will be available at the link once it goes public.
