@@ -12,25 +12,9 @@ I have a notebook full of project ideas, and if you bear with me, this page will
 ### What I know
 I'm very comfortable using R for every phase of data science, from data wrangling to modeling to communication/implementation.  I am well-versed in statistical theory and mathematical statistics, including Bayesian methods and survey sampling, which informs my analyses and model building. My background in Political Science and Integrated Marketing Communications gives me more tools to understand, process, and communicate the data that populates the world around us, and I look forward to sharing that curiosity with the world!
 
-### And a little bit about me
-My interests include:
+### My interests include:
 - Finance 📈
 - Sports (especially Soccer) ⚽
 - Movies and pop culture 🎥
 - Politics 🗳️
 - and more!
-
-<!--
-**ajamram/ajamram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
