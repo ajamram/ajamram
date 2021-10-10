@@ -12,7 +12,7 @@ I have a notebook full of project ideas, and if you bear with me, this page will
 ### What I know
 I'm very comfortable using R for every phase of data science, from data wrangling to modeling to communication/implementation.  I am well-versed in statistical theory and mathematical statistics, including Bayesian methods and survey sampling, which informs my analyses and model building. My background in Political Science and Integrated Marketing Communications gives me more tools to understand, process, and communicate the data that populates the world around us, and I look forward to sharing that curiosity with the world!
 
-### My interests include:
+### Some of my other interests include:
 - Finance 📈
 - Sports (especially Soccer) ⚽
 - Movies and pop culture 🎥
