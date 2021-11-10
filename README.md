@@ -3,7 +3,7 @@ Hi y'all, my name is Antonio! 👋 I'm a Senior at Northwestern University major
 
 ### What I'm working on right now
 I'm currently working on a shiny R dashboard for [picking and evaluating stock portfolios](https://github.com/ajamram/stock_app), which will be available at the link once it goes public.
-I'm also working on updating a [movie revenue prediction model](https://github.com/ajamram/movies_2021), which should be up sometime soon. 
+I'm also working on updating a [movie revenue prediction project](https://github.com/ajamram/movies_2021), which should be up sometime soon. 
 
 ### What's to come
 I'm planning on adding more work this year as I learn more Python and maybe even (fingers crossed 🤞) some Julia.
